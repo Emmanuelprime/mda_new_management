@@ -68,5 +68,4 @@ Follow the following steps if you want to run a project without installing postg
 10. Run your server >>python manage.py runserver
 11. Login with the username and password created in a superuser
 
-# Watch video demonstration 
-https://youtu.be/5h3ne2de2b4
+
